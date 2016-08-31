@@ -5,4 +5,13 @@ This is a practice readme for the GitHub tutorial.
 
 Yabba Dabba Doo
 
+*This is emphasized.*
+
+**This is strongly emphasized.**
+
+##A list
+
+* Item 1
+* Item 2
+* Item 3
 
