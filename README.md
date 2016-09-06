@@ -20,3 +20,5 @@ Yabba Dabba Doo
 Merged the updated remote changes into feature branch.
 
 Adding new changes in feature.
+
+Now doing a change in remote.
